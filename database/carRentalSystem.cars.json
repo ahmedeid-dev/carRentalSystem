@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "66609864dc8b27a684c74506"
+  },
+  "name": "bmw",
+  "model": "honda",
+  "rentalStatus": "rented"
+},
+{
+  "_id": {
+    "$oid": "6666c0742b322cc47c846c49"
+  },
+  "name": "bmw",
+  "model": "sport",
+  "rentalStatus": "rented"
+},
+{
+  "_id": {
+    "$oid": "6666c07d2b322cc47c846c4a"
+  },
+  "name": "toyota",
+  "model": "sport",
+  "rentalStatus": "available"
+},
+{
+  "_id": {
+    "$oid": "6666c07e2b322cc47c846c4b"
+  },
+  "name": "toyota",
+  "model": "sport",
+  "rentalStatus": "rented"
+},
+{
+  "_id": {
+    "$oid": "6666c0852b322cc47c846c4c"
+  },
+  "name": "honda",
+  "model": "sport",
+  "rentalStatus": "rented"
+},
+{
+  "_id": {
+    "$oid": "6666c08a2b322cc47c846c4d"
+  },
+  "name": "bmw",
+  "model": "sport",
+  "rentalStatus": "available"
+},
+{
+  "_id": {
+    "$oid": "6666d049fb7a2c24a2ade5c3"
+  },
+  "name": "honda",
+  "model": "sport",
+  "rentalStatus": "available"
+},
+{
+  "_id": {
+    "$oid": "6666d04afb7a2c24a2ade5c4"
+  },
+  "name": "honda",
+  "model": "sport",
+  "rentalStatus": "available"
+},
+{
+  "_id": {
+    "$oid": "6666df4d1f4887750fbf3222"
+  },
+  "name": "honda",
+  "model": "sport",
+  "rentalStatus": "available"
+},
+{
+  "_id": {
+    "$oid": "6666df4e1f4887750fbf3223"
+  },
+  "name": "honda",
+  "model": "sport",
+  "rentalStatus": "available"
+}]
